@@ -1,0 +1,67 @@
+8
+
+dir
+33
+file:///Users/kom/code/svn_repository/SVNwpv/junit4.10/SVNrep
+file:///Users/kom/code/svn_repository/SVNwpv
+
+
+
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0020f8c9-46a0-494d-9da5-a2e9f4206ce4
+
+hooks
+dir
+
+conf
+dir
+
+db
+dir
+
+format
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+1dcca23355272056f04fe8bf20edfce0
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+dav
+dir
+
+locks
+dir
+
+README.txt
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+f6853445f59f9c58cfbaa46380724015
+2011-11-06T02:13:16.605399Z
+1
+kom
+

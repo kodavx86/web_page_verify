@@ -1,0 +1,26 @@
+# This is the default config file for the wpv program that
+# contains tag data for the bottom-level most basic tags
+# that would appear in all HTML code. Check it.
+
+# The format of each line is a follows:
+#	<open tag name> : [close tag name] : [list of attributes]
+#	for attributes, O => optional, R => required
+
+head : /head : profile = O
+body : /body : background = O, text = O, link = O, bgcolor = O, onload = O
+meta : NONE : name = O, content = R, http-equiv = O
+div : /div : style = O
+a : /a : href = R
+br : NONE : NONE
+html : /html : NONE
+title : /title : NONE
+style : /style : type = R
+script : /script : type = R
+img : NONE : src = R, alt = O
+p : /p : class = O, style = O
+form : /form : name = O, action = R, method = R
+br : NONE : NONE
+hr : NONE : style = O
+link : NONE : href = R, rel = O, type = O
+input : NONE : type = R, name = O, size = O, class = O, id = O, onblur = O, onclick = O, maxlength = O
+button : /button : type = R, name = O, class = O, onclick = O

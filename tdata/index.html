@@ -1,0 +1,65 @@
+<!-- This is the start of the codepathfinder.net website -->
+<!--This is the header for the website-->
+<div style="display:inline;float:left"><a href="http://www.codepathfinder.net/CodeSearch">Search</a>&nbsp&nbsp<a href="http://www.codepathfinder.net/Upload">Upload</a>&nbsp&nbsp<a href="http://www.codepathfinder.net/SiteUpdates">Updates</a>&nbsp&nbsp<a href="http://www.codepathfinder.net/UserRegistration">Registration</a>&nbsp&nbsp</div><div style="display:inline;float:right"><a href="http://www.codepathfinder.net/UserLogin">Sign in</a>&nbsp&nbsp<a href="http://www.codepathfinder.net/AboutSite">About</a></div><br><hr style="color:#76EEC6"><html>
+<head>
+ <title>Code Pathfinder</title>
+ <link href="http://www.codepathfinder.net/css/styles.css" rel="stylesheet" type="text/css">
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+ <meta http-equiv="Content-Language" content="en-us">
+ <meta name="description" content="Provides you the means to search for samples of code that meet 
+  your needs. No more having to search forums, email trails, blogs, or other websites for examples 
+  of code. If you've ever asked yourself 'how do I make the code do this?', you've come to the right 
+  place.">
+ <meta name="keywords" content="code,programming,C,CPP,C++,JAVA,examples,code samples,search for code">
+ <style type="text/css">
+  form 	{display:inline;}
+  h1 	{text-align:center;}
+ </style>
+ <link rel="shortcut icon" type="image/x-icon" href="http://www.codepathfinder.net/images/favicon.ico">
+ <script type="text/javascript">
+  function set_default() {
+  	d_obj = document.getElementById("search_b");
+  	if(0 == d_obj.value.length) {
+  		d_obj.style.color = "grey";
+  		d_obj.value = "Enter code you want to search for here";
+  	}
+  }
+  function un_set_default() {
+  	d_obj = document.getElementById("search_b");
+  	d_obj.style.color = "black";
+  	if(d_obj.value.toLowerCase() === "Enter code you want to search for here".toLowerCase()) {
+  		d_obj.value = "";
+  	}
+  }
+ </script>
+</head>
+<body onload="set_default()">
+ <div style="text-align:center;">
+
+ <br><img src="http://www.codepathfinder.net/images/Logo.gif" alt="Code Pathfinder"/>
+ <p class="format">Version 1.7.2</p>
+  <form name="codesearch" action="http://www.codepathfinder.net/Find" method="GET">
+   <input type="text" name="search_bar" size="55" class="iTextFormat" id="search_b"
+   		onClick="un_set_default();" onBlur="set_default();"
+   								maxlength="110"><br>
+   <button type="submit" name="search_button" class="buttonFormat" onClick="un_set_default();"
+   	>Search for Code!</button></form>
+ </div><br>
+ <p style="text-align:center;font-size:17px;font-family:arial,sans-serif;"
+ 					>2401 lines of code and growing!</p>
+
+ <p style="text-align:center">Code Pathfinder &copy; 2008</p>
+ <!-- This is the code for the footer of all pages-->
+<p style="text-align:center;"><a href="http://www.codepathfinder.net/CodeSearch">Search</a> - <a href="http://www.codepathfinder.net/UserLogin">Sign in</a> - <a href="http://www.codepathfinder.net/UserRegistration">Registration</a> - <a href="http://www.codepathfinder.net/TermsOfUse">Terms Of Use</a> - <a href="http://www.codepathfinder.net/Dedication">Dedication</a></p> <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15645463-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

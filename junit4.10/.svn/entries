@@ -1,0 +1,133 @@
+8
+
+dir
+33
+file:///Users/kom/code/svn_repository/SVNwpv/junit4.10
+file:///Users/kom/code/svn_repository/SVNwpv
+
+
+
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0020f8c9-46a0-494d-9da5-a2e9f4206ce4
+
+README.html
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+516cd02689830ebf4ff6a0656cd25781
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+junit-4.10.jar
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+972c3b8fb2cc26008cbceb01ff889ec4
+2011-11-06T02:13:16.605399Z
+1
+kom
+has-props
+
+doc
+dir
+
+cpl-v10.html
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+67a4b75d42edcbd82d2878eba913691b
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+javadoc
+dir
+
+org
+dir
+
+junit
+dir
+
+temp.hamcrest.source
+dir
+
+junit-4.10-src.jar
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+8afa3b9b5a8d6d8cc318c4bae61193cc
+2011-11-06T02:13:16.605399Z
+1
+kom
+has-props
+
+junit-dep-4.10.jar
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+7737f24b3361170908fc87242a1c0e68
+2011-11-06T02:13:16.605399Z
+1
+kom
+has-props
+
+SVNrep
+dir
+
+BUILDING
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+4eaa884dda7c41832b79db368d90929a
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+build.xml
+file
+
+
+
+
+2011-11-06T02:48:20.000000Z
+013f9aa17ea2095b8b243f49a7c7e9e0
+2011-11-06T02:13:16.605399Z
+1
+kom
+

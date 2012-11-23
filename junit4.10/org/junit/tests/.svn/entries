@@ -1,0 +1,158 @@
+8
+
+dir
+33
+file:///Users/kom/code/svn_repository/SVNwpv/junit4.10/org/junit/tests
+file:///Users/kom/code/svn_repository/SVNwpv
+
+
+
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+0020f8c9-46a0-494d-9da5-a2e9f4206ce4
+
+running
+dir
+
+description
+dir
+
+ObjectContractTest.java
+file
+
+
+
+
+2011-11-06T02:48:18.000000Z
+f54232940f64fec6b31b521c10b016d8
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+TestSystem.class
+file
+
+
+
+
+2011-11-06T02:48:18.000000Z
+2bdba317af3340eba0b6c30e78404888
+2011-11-06T02:13:16.605399Z
+1
+kom
+has-props
+
+package-info.class
+file
+
+
+
+
+2011-11-06T02:48:18.000000Z
+80786e1751879b7253536627c6ba5b94
+2011-11-06T02:13:16.605399Z
+1
+kom
+has-props
+
+validation
+dir
+
+listening
+dir
+
+experimental
+dir
+
+AllTests.class
+file
+
+
+
+
+2011-11-06T02:48:18.000000Z
+3a1f0798203e77419898562736abf8bb
+2011-11-06T02:13:16.605399Z
+1
+kom
+has-props
+
+deprecated
+dir
+
+manipulation
+dir
+
+package-info.java
+file
+
+
+
+
+2011-11-06T02:48:18.000000Z
+0fe5d13e066d11e6e22c97d6ecf87751
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+TestSystem.java
+file
+
+
+
+
+2011-11-06T02:48:18.000000Z
+717f1f9e0cdfbb9f14cbc041ec47ec69
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+junit3compatibility
+dir
+
+assertion
+dir
+
+ObjectContractTest.class
+file
+
+
+
+
+2011-11-06T02:48:18.000000Z
+79fd100bbe966ad7aa45bc8fc0e9cc76
+2011-11-06T02:13:16.605399Z
+1
+kom
+has-props
+
+AllTests.java
+file
+
+
+
+
+2011-11-06T02:48:18.000000Z
+1e21640953620691288f89c40a38864e
+2011-11-06T02:13:16.605399Z
+1
+kom
+
+internal
+dir
+
