@@ -271,6 +271,12 @@ public class Tags {
 	 			}
 	 		}
 	 		Vector <String> req_attrs = n_config.getReqAttrs(tag_name);
+	 		//if req_attrs is null, that means the tag is considered invalid
+	 		//Make result message of it here
+	 		if (null == req_attrs) {
+	 			addResult(f_name,lineNum,tag,ResultSet.Message.INVALID_OPEN_TAG,pos);
+	 			req_attrs = new Vector<String>(); //make an empty vector
+	 		}
 	 		req_attrs.removeAll(prev_attrs);
 	 		if(!req_attrs.isEmpty()) {
 	 			for(int i = 0; i < req_attrs.size(); i++) {

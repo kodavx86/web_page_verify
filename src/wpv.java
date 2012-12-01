@@ -58,6 +58,7 @@
  		
  		//TASK 3: Get the list of errors and print them out
  		ArrayList<ResultSet> r_set = n_tags.getResultSet();
+ 			System.out.println("R SET SIZE: " + r_set.size());
  		for(int i = 0; i < r_set.size(); i++) {
  			System.out.print(r_set.get(i));
  		}
